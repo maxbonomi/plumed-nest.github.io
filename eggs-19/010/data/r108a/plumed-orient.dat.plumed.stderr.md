@@ -1,0 +1,7 @@
+**Project ID:** [plumID:19.010]({{ '/' | absolute_url }}eggs-19/010/)  
+Stderr for source:  r108a/plumed-orient.dat   
+(download [gzipped raw stdout](plumed-orient.dat.plumed.stdout.txt.gz))  
+{% raw %}
+<pre>
+</pre>
+{% endraw %}
